@@ -10,4 +10,6 @@ news contains ( title ,description , images , author name , created at  , views 
 - Admin can delete news item 
 - Admin can edit news item 
 --------------------------------
-please use laravel  5 frame work  for impleneting this task using query builder
+Using laravel 5 framework for impleneting this task and  query builder
+email : a@a.a
+password : 123123
